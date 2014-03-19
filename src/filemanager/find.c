@@ -516,7 +516,6 @@ find_parameters (char **start_dir, ssize_t * start_dir_len,
     const char *file_name_label = N_("File name:");
     const char *file_recurs_label = N_("&Find recursively");
     const char *file_pattern_label = N_("&Using shell patterns");
-    const char *file_skip_hidden_label = N_("S&kip hidden");
     const char *file_only_directories_label = N_("Only &directories");
 #ifdef HAVE_CHARSET
     const char *file_all_charsets_label = N_("&All charsets");
